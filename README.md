@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Suraj Jangid
-
+## Hi there 👋 
 🎯 Freelance Backend Engineer | Python • FastAPI • Web Scraping • Data Automation
 
 
