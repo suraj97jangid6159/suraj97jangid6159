@@ -77,7 +77,7 @@ If you want to say hi 👋, I’d be happy to chat and learn together! 😊
 ---
 
 ### 📊 GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj97jangid6159&show_icons=true&hide_title=tu)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajss97jangid6159&show_icons=true&hide_title=tu)
 
 ---
 
