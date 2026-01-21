@@ -2,11 +2,9 @@
 
 🎯 Freelance Backend Engineer | Python • FastAPI • Web Scraping • Data Automation
 
-### **Option 2: Slightly Cleaner Compact Style (Few Line Breaks, Minimal Indent)**
+
 
 ```markdown
-```javascript
-
 const suraj = {
     pronouns: "He" | "His",
     code: ["Python", "SQL", "Bash", "C/C++"],
@@ -30,7 +28,7 @@ const suraj = {
 I’m interested in exploring new technologies like Backend Development, Web Scraping, Data Automation, Cloud Computing, and SaaS Products.  
 If you want to say hi 👋, I’d be happy to chat and learn together! 😊
 
----
+'''
 ### 💻 Technical Skills
 
 #### 🖥 Programming & Scripting
