@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 👋 I'm Suraj Jangid
 
-<!--
-**suraj97jangid6159/suraj97jangid6159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Freelance Backend Engineer | Python • FastAPI • Web Scraping • Data Automation
 
-Here are some ideas to get you started:
+I help startups and teams build reliable backend systems and automate complex data workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧱 What I Do
+- Build production-grade backend APIs (FastAPI, Flask)
+- Web scraping & automation (Scrapy, Selenium, Playwright)
+- Data extraction, cleaning & transformation pipelines
+- Cloud-ready backend architecture (AWS-friendly)
+- SaaS product development & workflow automation
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python  
+**Backend:** FastAPI, Flask  
+**Scraping:** Scrapy, Selenium, Playwright  
+**Databases:** PostgreSQL, DynamoDB  
+**Cloud / DevOps:** AWS, Docker, CI/CD  
+
+---
+
+### 🚀 Featured Work
+- Production-ready FastAPI backend with authentication & CRUD APIs
+- Automated data extraction pipelines for business workflows
+- Web scraping systems with proxy rotation & anti-bot handling
+- SaaS product infrastructure for renewable energy solutions
+
+---
+
+### 📊 GitHub Stats
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj97jangid6159&show_icons=true&hide_title=true)
+
+---
+
+### 📬 Let’s Connect
+- 💼 LinkedIn: inkedin.com/in/suraj-jangid-375054170/
+- 💻 Open to freelance, contract, and full-time opportunities
+- ✉️ Email: suraj97jangid6159@gmail.com
