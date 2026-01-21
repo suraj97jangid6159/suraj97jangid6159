@@ -26,28 +26,6 @@ const suraj = {
 
 
 
-I help startups and teams build reliable backend systems and automate complex data workflows.
-
----
-
-### 🧱 What I Do
-- Build production-grade backend APIs (FastAPI, Flask)
-- Web scraping & automation (Scrapy, Selenium, Playwright)
-- Data extraction, cleaning & transformation pipelines
-- Cloud-ready backend architecture (AWS-friendly)
-- SaaS product development & workflow automation
-
----
-
-### 🛠 Tech Stack
-**Languages:** Python  
-**Backend:** FastAPI, Flask  
-**Scraping:** Scrapy, Selenium, Playwright  
-**Databases:** PostgreSQL, DynamoDB  
-**Cloud / DevOps:** AWS, Docker, CI/CD  
-
----
-
 ### 🚀 Featured Work
 - Production-ready FastAPI backend with authentication & CRUD APIs
 - Automated data extraction pipelines for business workflows
@@ -57,7 +35,7 @@ I help startups and teams build reliable backend systems and automate complex da
 ---
 
 ### 📊 GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj97jangid6159&show_icons=true&hide_title=true)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj97jangid6159&show_icons=true&hide_title=tu)
 
 ---
 
