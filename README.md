@@ -2,6 +2,29 @@
 
 🎯 Freelance Backend Engineer | Python • FastAPI • Web Scraping • Data Automation
 
+const suraj = {
+    pronouns: "He" | "His",
+    code: ["Python", "SQL", "Bash", "C/C++"],
+    askMeAbout: ["Backend Development", "Web Scraping", "Data Automation", "Cloud Computing", "SaaS Products"],
+    experience: ["Python Backend Development", "Web Scraping & Automation", "SaaS Product Engineering"],
+    technologies: {
+        frontEnd: {
+            basicTech: ["HTML", "CSS", "JavaScript", "ReactJS", "NextJS"]
+        },
+        backEnd: {
+            python: ["FastAPI", "Flask"],
+            js: ["Node.js", "Express.js"]
+        },
+        databases: ["PostgreSQL", "DynamoDB", "MongoDB"],
+        cloud: ["AWS", "Docker", "CI/CD"]
+    },
+    currentFocus: "Building reliable backend systems and automated workflows for SaaS products, with scalable cloud-ready architecture.",
+    funFact: "I love turning repetitive tasks into automated pipelines — saving hours, one script at a time!"
+}
+
+
+
+
 I help startups and teams build reliable backend systems and automate complex data workflows.
 
 ---
