@@ -2,6 +2,7 @@
 
 🎯 Freelance Backend Engineer | Python • FastAPI • Web Scraping • Data Automation
 
+
 const suraj = {
     pronouns: "He" | "His",
     code: ["Python", "SQL", "Bash", "C/C++"],
