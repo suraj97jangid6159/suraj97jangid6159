@@ -13,7 +13,7 @@ class Suraj:
 
         self.tech = {
             "backend": ["FastAPI", "Django", "Flask"],
-            "cloud": ["AWS", "Lambda", "S3", "SQS", "SES", "Textract", "Kinesis", "Bedrock"],
+            "cloud": ["AWS", "Lambda", "S3", "SQS", "SES", "Textract", "DynamoDB", "Bedrock"],
             "ai": ["OpenAI", "Claude", "Twilio", "Retell AI"],
             "automation": ["n8n", "Scrapy", "Playwright"]
         }
@@ -33,10 +33,7 @@ If you want to say hi 👋, I’d be happy to chat and learn together! 😊
 
 #### 🖥 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
