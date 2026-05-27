@@ -1,5 +1,5 @@
 ## Hi there 👋 
-🎯 Freelance Backend Engineer | Python • FastAPI • AI Automation • AWS
+🎯 Freelancer or full time -  Software Engineer | Python • FastAPI • AI Automation • AWS
 
 
 
@@ -98,9 +98,9 @@ If you want to say hi 👋, I’d be happy to chat and learn together! 😊
 ---
 
 ### 🚀 Featured Work
-- Production-ready FastAPI backend with authentication & CRUD APIs
-- AI-powered automation workflows using AWS Bedrock & OpenAI
-- Voice AI workflows using Twilio Voice & Retell AI
+- Production-ready FastAPI backend with  APIs
+- AI-powered automation workflows using AWS Bedrock
+- Voice AI workflows using FastAPI, Twilio Voice & Retell AI
 - Automated data extraction pipelines for business workflows
 - Web scraping systems with proxy rotation & anti-bot handling
 - SaaS product infrastructure for renewable energy solutions
