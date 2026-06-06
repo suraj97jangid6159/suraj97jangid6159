@@ -7,14 +7,14 @@
 class Suraj:
 
     def __init__(self):
-        self.role = "Backend Engineer | AI Automation"
+        self.role = "Software Engineer | AI Automation"
 
-        self.code = ["Python","JavaScript"]
+        self.code = ["Python", "JavaScript"]
 
         self.tech = {
             "backend": ["FastAPI", "Django", "Flask"],
             "cloud": ["AWS", "Lambda", "S3", "SQS", "SES", "Textract", "DynamoDB", "Bedrock"],
-            "ai": ["OpenAI", "Claude", "Twilio", "Retell AI"],
+            "ai": ["OpenAI", "Claude", "Twilio", "Retell.AI"],
             "automation": ["n8n", "Scrapy", "Playwright"]
         }
 
