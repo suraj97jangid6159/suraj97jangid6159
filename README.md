@@ -9,7 +9,7 @@ class Suraj:
     def __init__(self):
         self.role = "Backend Engineer | AI Automation"
 
-        self.code = ["Python", "Go", "JavaScript"]
+        self.code = ["Python","JavaScript"]
 
         self.tech = {
             "backend": ["FastAPI", "Django", "Flask"],
