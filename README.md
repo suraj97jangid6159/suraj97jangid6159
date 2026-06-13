@@ -1,5 +1,5 @@
 ## Hi there 👋 
-🎯 Freelancer or full time -  Software Engineer | Python • FastAPI • AI Automation • AWS
+ full time or 🎯 Freelancer -  Software Engineer | Python • FastAPI • AI Automation • AWS
 
 
 
